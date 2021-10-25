@@ -1,0 +1,21 @@
+{
+    "name": "georgechem/captcha",
+    "description": "Captcha verification",
+    "type": "library",
+    "require": {
+        "php": ">=8.0.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Georgechem\\Captcha\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Grzegorz Chrymecki",
+            "email": "grzegorzchrymecki@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
